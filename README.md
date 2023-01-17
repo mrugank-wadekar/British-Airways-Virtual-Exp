@@ -12,4 +12,15 @@ The second figure is a pie chart which illustrates the percanted distribution of
 <img src="https://user-images.githubusercontent.com/79035539/212810400-bed0398a-f56e-4f6d-8776-591e01e586c2.png" height=450 width=800><br>
 The figure which is a WordCloud, illustrates the key terms extracted from the customer review.
 # Key factors affecting the customer decision
-<img src="https://user-images.githubusercontent.com/79035539/212813211-aa0fb27c-5eca-44a5-afcd-846a44c2b7f6.png" width=600 height=400>
+<img src="https://user-images.githubusercontent.com/79035539/212813211-aa0fb27c-5eca-44a5-afcd-846a44c2b7f6.png" width=600 height=400><br>
+The Accuracy of the model which uses a Random Forest Classifier is : <b>85.5 %
+
+We can infer from the chart the following features and their importance in the overall prediction:
+<b>Purchase_lead : 18 %
+Route (Combined ) : 20 %
+Flight_hour : 14 %</b>
+Length_of_stay : 13 %
+Booking_origin (Combined) : 11 %
+Flight_day : 9 %
+Flight_Duration : 6 %
+Num_passengers : 5 %
